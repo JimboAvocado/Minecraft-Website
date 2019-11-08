@@ -64,6 +64,11 @@ html, body{
 	width: 50%;
 	display: flex;
 }
+.redbutton{
+	height:15%;
+	width:15%;
+	display: flex;
+}
 .sideright{
 	height: 100%;
 	width: 25%;
